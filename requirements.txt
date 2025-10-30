@@ -1,0 +1,20 @@
+# VisionAI Dependencies
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# AI & Machine Learning
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.35.0
+
+# Image Processing
+Pillow==10.1.0
+requests==2.31.0
+
+# Export & Reporting
+reportlab==4.0.7
+
+# Utilities
+python-magic-bin==0.4.14
